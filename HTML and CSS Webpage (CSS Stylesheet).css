@@ -1,0 +1,118 @@
+/* reset stylesheet */
+h1, h2, h3, h4, h5, h6, p, a, ul, ol, li, small {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	background: transparent; 
+ }
+ 
+/*Start home page*/
+
+body {
+	background: white;
+	padding: 0;
+	margin: 0; 
+	
+}
+
+.body-image {
+	text-align: center;
+	width: 100%;
+	padding: 0;
+	margin-top: 40px;
+}
+
+#bodypic {
+	display: inline-block;
+	width: 100%;
+
+}
+
+.banner {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+
+.nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+
+}
+
+.nav li {
+	width: 100px;
+	display: inline-block;
+    margin-right: -4px;
+	font-family: Garamond;
+	font-size: 25px;
+	line-height: 40px;
+    height: 40px;
+	border-top: 1px solid #888;
+	border-bottom: 1px solid #888;
+
+
+}
+
+
+.nav a:link {
+	text-decoration: none;
+	color: black;
+	
+}
+
+.nav a:hover {
+	text-decoration: none;
+	background-color: #F3EB1B;
+
+}
+
+.nav a:visited {
+	text-decoration: none;
+	color: black;
+}
+
+.name {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+.name h1 {
+	display: inline-block;
+	color: black;
+	font-size: 65px;
+	font-family: Verdana;
+
+}
+
+.name a:visited {
+	text-decoration: none;
+	color: black;
+	
+}
+
+.name a:link {
+	text-decoration: none;
+	color: black;
+	
+}
+
+/*Start about page*/
+
+.profilepic {
+	text-align: center;
+	width: 100%;
+	margin-top: 40px;
+	
+}
+
+#pic {
+	width: auto;
+	
+}
+

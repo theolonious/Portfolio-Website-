@@ -1,4 +1,3 @@
-# hello-world
-Hello, github.
+# Portfolio Website
 
-My name is Nhien and I live in Dallas, TX. 
+This is my portfolio website written in HTML and CSS. 
